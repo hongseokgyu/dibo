@@ -18,7 +18,7 @@
 	var loader_firsttime = 0;
 	
 	const loader = "https://www.gstatic.com/charts/loader.js";	
-	const gaugejs = "https://hongseokgyu.github.io/dibo/gmap/t.js";
+	const gaugejs = "https://hongseokgyu.github.io/dibo/gmap/t.js"; 
 	
 	function loadScript(src, callback) {
 	    const script = document.createElement('script');
